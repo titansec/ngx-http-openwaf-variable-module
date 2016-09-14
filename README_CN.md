@@ -1,7 +1,7 @@
 Name
 ====
 ngx-http-openwaf-variable-module
-提供openwaf所需变量的nginx模块
+提供[openwaf](https://github.com/titansec/openwaf)部分所需变量的nginx模块
 
 Table of Contents
 =================
